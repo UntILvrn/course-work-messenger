@@ -8,7 +8,7 @@
 
 Ссылка на realtimeboard: https://realtimeboard.com/app/board/o9J_kxmfqJQ=/ 
 <br />
-Ссылка на Trello: https://trello.com/user85384290/home 
+Ссылка на Trello: https://trello.com/b/nq5S7mgn/мессенджер
 
 
 Над проектом работают студенты 3 курса: Королёв Дмитрий и Коновалов Игорь 
