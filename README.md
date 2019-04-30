@@ -1,15 +1,16 @@
 # Mobile messager
 
 Курсовой проект по экзаменационному проекту Технологии Програмирования.Задача Мобильный месседжер, с возможностью регистрации, для обмена сообщениями и картинками
+<br>
+## Документы:
+[Диаграммы](./Diagramms)
+<br>
+[Техническое задание](./Documents)
 
-Диаграммы содержатся в папке - Diagramms
+Ссылка на realtimeboard:[Архитектура](https://realtimeboard.com/app/board/o9J_kxmfqJQ=/) 
 <br />
-Документация проекта содержится в папке Documents 
-
-Ссылка на realtimeboard: https://realtimeboard.com/app/board/o9J_kxmfqJQ=/ 
-<br />
-Ссылка на Trello: https://trello.com/b/nq5S7mgn/мессенджер
-
+Ссылка на Trello:[Мессенджер](https://trello.com/b/nq5S7mgn/мессенджер)
+ 
 
 Над проектом работают студенты 3 курса: Королёв Дмитрий и Коновалов Игорь 
 
