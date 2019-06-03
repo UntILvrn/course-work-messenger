@@ -8,12 +8,23 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/frend"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:layout_width="412dp"
-        android:layout_height="90dp"
-        android:text="Button"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="89dp" />
+        android:layout_width="210dp"
+        android:layout_height="50dp"
+        android:text="Друзья"
+        android:background="@color/cardview_dark_background"
+        android:layout_gravity="bottom"
 
+        />
+
+    <Button
+        android:id="@+id/message"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Сообщение"
+        android:background="@color/cardview_dark_background"
+        android:layout_gravity="bottom"
+         />
 </LinearLayout>
