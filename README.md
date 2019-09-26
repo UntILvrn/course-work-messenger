@@ -16,5 +16,3 @@
 
 Контакты: anova.kon@gmail.com , fortyfour.star@gmail.com
 
-
-# Демо сделано но из за бага android studio студии просим принять немного позже.
