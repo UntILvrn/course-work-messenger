@@ -31,7 +31,7 @@
 <br>
 
 ## Видео Демонстрация
-https://yadi.sk/i/CUaIr2ZO1YxDRg
+[Ссылка на видео](https://yadi.sk/i/CUaIr2ZO1YxDRg)
 
 Контакты:
 <br>
