@@ -21,7 +21,7 @@ public class first_screen extends AppCompatActivity {
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(first_screen.this, menu.class);
+                Intent intent = new Intent(first_screen.this, Friend_activity.class);
                 intent.putExtra("login", login.getText().toString());
                 startActivity(intent);
 
