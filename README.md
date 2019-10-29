@@ -1,18 +1,38 @@
 # Mobile messenger
 
-Курсовой проект по экзаменационному проекту Технологии Програмирования.Задача Мобильный месседжер, с возможностью регистрации, для обмена сообщениями и картинками
+Курсовой проект по экзаменационному проекту Технологии Програмирования.Задача Мобильный месседжер, с возможностью регистрации, для обмена сообщениями.
+<br>
+<br>
+Над проектом работают студенты 3 курса:
+<br>
+Королёв Дмитрий: [KorolevSoftware](https://github.com/KorolevSoftware)
+<br>
+Коновалов Игорь: [konan01](https://github.com/konan01)
 <br>
 ## Документы:
 [Диаграммы](./Diagramms)
 <br>
 [Техническое задание](./Documents)
+<br>
+## Trello:
+[Ссылка на Trello](https://trello.com/b/nq5S7mgn/мессенджер)
+<br>
+## Документация:
+- [Курсовая](./Documents/Introduction.doc)
+- [ТЗ](./Documents/Technical%20task.doc)
+- [Отчет по обязанностям](./Documents/Introduction.doc)
+<br>
 
-Ссылка на realtimeboard:[Архитектура](https://realtimeboard.com/app/board/o9J_kxmfqJQ=/) 
-<br />
-Ссылка на Trello:[Мессенджер](https://trello.com/b/nq5S7mgn/мессенджер)
- 
+## Архитектура
+[Архитектура](https://realtimeboard.com/app/board/o9J_kxmfqJQ=/)
 
-Над проектом работают студенты 3 курса: Королёв Дмитрий и Коновалов Игорь 
+<br>
+<br>
+<br>
 
-Контакты: anova.kon@gmail.com , fortyfour.star@gmail.com
-
+Контакты:
+<br>
+<br>
+Коновалов Игорь:  [email](anova.kon@gmail.com)
+<br>
+Королёв Дмитрий:  [email](fortyfour.star@gmail.com)
